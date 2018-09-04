@@ -37,7 +37,7 @@ const Logo: React.SFC = () => {
             <LogoImg/>
 
             <LogoTitle>
-                Awesome React!
+                iConnect!
             </LogoTitle>
         </LogoWrapper>
     );
